@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  start_date: 2020-10-23
+  end_date: 2020-10-23
+  space: one
+
+two:
+  name: MyString
+  description: MyString
+  start_date: 2020-10-23
+  end_date: 2020-10-23
+  space: two
